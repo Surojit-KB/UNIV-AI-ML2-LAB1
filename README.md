@@ -1,1 +1,3 @@
-# UNIV-AI-ML2-LAB1
+# Lab1 Solution
+# Pickle of the dataset is provided in the repo
+# Original csv file is also available
